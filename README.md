@@ -1,8 +1,8 @@
 ### About Me
 
-My name is Theresa Worden. I am currently a junior Computer Science and Math major at St. Olaf College. I am presently pursuing internship opportunities for summer 2024. 
+Hi! I'm Theresa Worden, a current junior Computer Science and Math major at St. Olaf College with a passion for all things tech. I'm aspiring to work in a software development position in the future. In the past, I have worked at Best Buy as a Software Engineer Intern. I am currently pursuing internship opportunities for Summer 2024.
 
-I have coding experience in C/C++, Python, Java, Go, Javascript, ARM Assembly, Pro C, SQL, and PL/SQL.
+I have coding experience in Java, C++, C, Python, SQL, PL/SQL, Javascript, Go, Pro*C, and ARM Assembly.
 
 <!--
 **wordentheresa0/wordentheresa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
